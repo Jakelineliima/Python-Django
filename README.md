@@ -1,0 +1,2 @@
+# Lavajato python django
+ 
